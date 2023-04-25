@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Ant\Desktop\Programming\Projects\2023\practice\practice\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  practice.vcxproj -> C:\Users\Ant\Desktop\Programming\Projects\2023\practice\x64\Debug\practice.exe
